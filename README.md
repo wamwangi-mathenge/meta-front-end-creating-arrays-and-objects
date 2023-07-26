@@ -9,7 +9,7 @@
 
 4. Add a new car brand using the push() method.
 
-5. Use console.log to show the third item from the clothes array in the console.
+5. Use console.log to show the third item from the cars array in the console.
 
 6. Create a new empty object literal and assign it to the variable favCar.
 
