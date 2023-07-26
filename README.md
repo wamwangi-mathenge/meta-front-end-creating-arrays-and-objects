@@ -1,7 +1,7 @@
 # Exercise: Creating Arrays and Objects
 
 ## Tasks to complete
-1. Create a new empty array literal and assign it to the variable clothes.
+1. Create a new empty array literal and assign it to the variable cars.
 
 2. Add 5 of your favorite car brands as strings using the push() method.
 
