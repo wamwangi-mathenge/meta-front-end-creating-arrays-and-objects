@@ -5,7 +5,7 @@
 
 2. Add 5 of your favorite car brands as strings using the push() method.
 
-3. Remove the fifth piece of clothing from the array using the pop() method.
+3. Remove the fifth car brand from the array using the pop() method.
 
 4. Add a new car brand using the push() method.
 
